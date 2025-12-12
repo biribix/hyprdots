@@ -1,0 +1,6 @@
+{
+    "window.menuBarVisibility": "compact",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.colorTheme": "Default Dark+"
+}

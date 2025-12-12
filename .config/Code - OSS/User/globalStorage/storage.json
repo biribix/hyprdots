@@ -1,0 +1,97 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "f420d7658d1e5a92cc8daba8edeb2b39a2f02d501ad60642fd1a9b25052e3786",
+    "telemetry.devDeviceId": "9cbb3590-955d-4caf-a0a0-cf9188d0a37a",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/david"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/david": "__default__profile__",
+            "file:///home/david/Downloads": "__default__profile__",
+            "file:///home/david/Downloads/dots-hyprland-main/dots": "__default__profile__",
+            "file:///home/david/Downloads/PilkDots-master": "__default__profile__",
+            "file:///home/david/Downloads/dots-hyprland-main": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/david",
+            "backupPath": "/home/david/.config/Code - OSS/Backups/e3cad762f1da54941a3546f62d3d66b0",
+            "uiState": {
+                "mode": 1,
+                "x": 20,
+                "y": 48,
+                "width": 1880,
+                "height": 1012
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 233,
+            "workspaces": {
+                "9777c1aac11dbbf4d4a6a828c76c4433": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "11430a48c5baf2d729bdf2ff93be5511": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "bf8e40c6e93dca26bf0c23871f83d9b6": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "db4101762b6e6d5ff1a9dd15cfd75a3f": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": false
+                },
+                "355f7d343ade0a1c14e69d382399fcfa": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

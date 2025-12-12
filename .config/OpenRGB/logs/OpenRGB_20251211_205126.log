@@ -1,0 +1,46 @@
+    OpenRGB v0.9+ (1.0rc2)
+    Commit:  from 
+    Launched: 20251211_205126
+====================================================================================================
+
+0     |Info:    [ProfileManager] Found file: RGB_1.orp attempting to validate header
+14    |Info:    [ProfileManager] Valid v5 profile found for RGB_1
+68    |Info:    [ResourceManager] Initializing HID interfaces: Success
+68    |Info:    ------------------------------------------------------
+68    |Info:    |               Start device detection               |
+68    |Info:    ------------------------------------------------------
+78    |Info:    ------------------------------------------------------
+78    |Info:    |             Detecting I2C interfaces               |
+78    |Info:    ------------------------------------------------------
+78    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-3 Device 10DE:2504 Subsystem: 1043:8816
+79    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-1 Device 10DE:2504 Subsystem: 1043:8816
+79    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-4 Device 10DE:2504 Subsystem: 1043:8816
+79    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-2 Device 10DE:2504 Subsystem: 1043:8816
+79    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-0 Device 10DE:2504 Subsystem: 1043:8816
+79    |Info:    [ResourceManager] Registering I2C interface: /dev/i2c-5 Device 10DE:2504 Subsystem: 1043:8816
+79    |Info:    ------------------------------------------------------
+79    |Info:    |               Detecting I2C devices                |
+79    |Info:    ------------------------------------------------------
+79    |Info:    ------------------------------------------------------
+79    |Info:    |            Detecting I2C DIMM modules              |
+79    |Info:    ------------------------------------------------------
+79    |Info:    ------------------------------------------------------
+79    |Info:    |               Detecting I2C PCI devices            |
+79    |Info:    ------------------------------------------------------
+585   |Info:    [ASUS TUF GeForce RTX 3060 V2 Gaming OC] Registering RGB controller
+628   |Info:    ------------------------------------------------------
+628   |Info:    |               Detecting HID devices                |
+628   |Info:    ------------------------------------------------------
+629   |Info:    [Logitech G213] Registering RGB controller
+629   |Info:    ------------------------------------------------------
+629   |Info:    |            Detecting libusb HID devices            |
+629   |Info:    ------------------------------------------------------
+711   |Info:    ------------------------------------------------------
+711   |Info:    |              Detecting other devices               |
+711   |Info:    ------------------------------------------------------
+736   |Info:    [ResourceManager] Calling Post-detection callbacks
+736   |Info:    ------------------------------------------------------
+736   |Info:    |                Detection completed                 |
+736   |Info:    ------------------------------------------------------
+6540  |Info:    [ProfileManager] Profile loading: Succeeded for ASUS TUF GeForce RTX 3060 V2 Gaming OC @ I2C: /dev/i2c-0, address 0x67
+6540  |Info:    [ProfileManager] Profile loading: Succeeded for Logitech G213 @ HID: /dev/hidraw1

@@ -1,0 +1,16 @@
+2025-12-11 17:07:42.305 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-12-11 17:07:42.408 [info] Started local extension host with pid 29572.
+2025-12-11 17:07:42.436 [info] Started initializing default profile extensions in extensions installation folder. file:///home/david/.vscode-oss/extensions
+2025-12-11 17:07:42.797 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/david/.vscode-oss/extensions
+2025-12-11 17:07:45.422 [info] [perf] Render performance baseline is 24ms
+2025-12-11 17:07:47.165 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2025-12-11 17:08:19.524 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-12-11 17:08:19.644 [info] Started local extension host with pid 32111.
+2025-12-11 17:08:22.302 [info] [perf] Render performance baseline is 24ms
+2025-12-11 17:14:10.245 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2025-12-11 17:14:44.304 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-12-11 17:14:44.404 [info] Started local extension host with pid 33752.
+2025-12-11 17:14:47.076 [info] [perf] Render performance baseline is 24ms
+2025-12-11 17:14:59.138 [info] Started local extension host with pid 34086.
+2025-12-11 17:15:01.699 [info] [perf] Render performance baseline is 24ms
+2025-12-11 17:15:22.401 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.

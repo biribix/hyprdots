@@ -1,0 +1,5 @@
+{
+    "window.menuBarVisibility": "compact",
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false
+}

@@ -1,0 +1,22 @@
+2025-12-11 17:07:41.256 [info] update#setState disabled
+2025-12-11 17:07:41.257 [info] update#ctor - updates are disabled as there is no update URL
+2025-12-11 17:08:18.927 [info] Extension host with pid 29572 exited with code: 0, signal: unknown.
+2025-12-11 17:14:43.685 [info] Extension host with pid 32111 exited with code: 0, signal: unknown.
+2025-12-11 17:14:43.781 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 32097]: crashed with code 15 and reason 'killed'
+2025-12-11 17:14:58.563 [info] Extension host with pid 33752 exited with code: 0, signal: unknown.
+2025-12-11 17:14:58.659 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 33738]: crashed with code 15 and reason 'killed'
+2025-12-11 17:16:02.891 [info] Extension host with pid 34246 exited with code: 0, signal: unknown.
+2025-12-11 17:31:57.333 [info] Extension host with pid 37515 exited with code: 0, signal: unknown.
+2025-12-11 17:31:57.437 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 37500]: crashed with code 15 and reason 'killed'
+2025-12-11 17:32:12.376 [info] Extension host with pid 39715 exited with code: 0, signal: unknown.
+2025-12-11 17:32:12.491 [error] [UtilityProcess id: 3, type: fileWatcher, pid: 39701]: crashed with code 15 and reason 'killed'
+2025-12-11 17:43:39.958 [info] Extension host with pid 40389 exited with code: 0, signal: unknown.
+2025-12-11 17:43:40.056 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 40375]: crashed with code 15 and reason 'killed'
+2025-12-11 17:56:44.100 [info] Extension host with pid 42188 exited with code: 0, signal: unknown.
+2025-12-11 17:56:44.201 [error] [UtilityProcess id: 2, type: fileWatcher, pid: 42175]: crashed with code 15 and reason 'killed'
+2025-12-11 17:58:34.716 [info] Extension host with pid 48453 exited with code: 0, signal: unknown.
+2025-12-11 17:58:44.536 [info] Extension host with pid 49826 exited with code: 0, signal: unknown.
+2025-12-11 18:00:09.484 [info] Extension host with pid 50013 exited with code: 0, signal: unknown.
+2025-12-11 18:00:09.514 [error] [UtilityProcess id: 4, type: fileWatcher, pid: 50014]: crashed with code 15 and reason 'killed'
+2025-12-11 18:00:10.813 [info] Extension host with pid 34086 exited with code: 0, signal: unknown.
+2025-12-11 18:00:10.910 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 34072]: crashed with code 15 and reason 'killed'
