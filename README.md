@@ -4,7 +4,7 @@ sddm
 hyprland, kitty
 vim
 git
-lib32-nvidia-utils, nvidia, nvidia-utils, nvidia-settings
+nvidia-dkms, nvidia-utils, nvidia-settings, lib32-nvidia-utils
 base, base-devel, amd-ucode
 grub, efibootmgr
 nerd-fonts
