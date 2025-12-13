@@ -4,23 +4,33 @@ sddm
 hyprland, kitty or alacritty
 vim
 git
-nvidia-dkms, nvidia-utils, nvidia-settings, lib32-nvidia-utils
+nvidia-dkms, nvidia-utils, nvidia-settings, lib32-nvidia-utils, linux-headers
 base, base-devel, amd-ucode
 grub, efibootmgr
 nerd-fonts
 nautilus
 rofi
+openssh
 
 
 Dependencias
 ```
-sudo pacman -S nwg-look gnome-themes-extra fastfetch code openrgb hyprshot waybar zsh zsh-autosuggestions zsh-completions playerctl
+sudo pacman -S cava vscode viewnior nwg-look gnome-themes-extra fastfetch code openrgb hyprshot waybar pavucontrol alsa-utils nm-connection-editor bluez bluez-utils blueman jre-openjdk ttf-nerd-fonts-symbols btop wine winetricks
 ```
-starship (importante)
+mplayer or mpv
+starship (importante) , playerctl
+pipewire
+pipewire-alsa
+pipewire-jack
+pipewire-pulse
+wlogout
+
+(lib32-pipewire 1:1.4.9-1
+libpulse 17.0+r93+gbe2efb69b-1)
 
 With AUR
 ```
-yay -S zen-browser-zen mkinitcpio-numlock sddm-silent-theme zsh-theme-powerlevel10k whitesur-icon-theme
+yay -S zen-browser-zen mkinitcpio-numlock sddm-silent-theme zsh-theme-powerlevel10k whitesur-icon-theme swww mpvpaper
 ```
 White-cursors: ``https://github.com/vinceliuice/WhiteSur-cursors.git``
 
