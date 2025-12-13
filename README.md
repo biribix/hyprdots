@@ -16,6 +16,8 @@ Dependencias
 ```
 sudo pacman -S nwg-look gnome-themes-extra fastfetch code openrgb hyprshot waybar zsh zsh-autosuggestions zsh-completions playerctl
 ```
+starship (importante)
+
 With AUR
 ```
 yay -S zen-browser-zen mkinitcpio-numlock sddm-silent-theme zsh-theme-powerlevel10k whitesur-icon-theme
