@@ -1,7 +1,7 @@
 # hyprdots
 Before instalation
 sddm
-hyprland, kitty
+hyprland, kitty or alacritty
 vim
 git
 nvidia-dkms, nvidia-utils, nvidia-settings, lib32-nvidia-utils
